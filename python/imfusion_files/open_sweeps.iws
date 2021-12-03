@@ -1,0 +1,1662 @@
+<!--ImFusion Suite, 13.08.2021-->
+<propertyfile version="1.1">
+    <param name="workspaceVersion">16</param>
+    <property name="Datasets">
+        <property name="Data">
+            <param name="topDown">1</param>
+            <param name="name">simulated_sweep7</param>
+            <param name="blockId">1</param>
+            <param name="original">1</param>
+            <param name="linkMPR">0</param>
+            <param name="hide3D">1</param>
+            <param name="viewsShown"></param>
+            <param name="uid">data0</param>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="Components">
+                <property name="DisplayOptions2d">
+                    <param name="gamma">1</param>
+                    <param name="invert">0</param>
+                    <param name="useMask">1</param>
+                    <param name="wlInOriginalValues">1</param>
+                    <property name="TransferFunction">
+                        <param name="window">255</param>
+                        <param name="level">127.5</param>
+                        <param name="presetName"></param>
+                        <param name="textureSize">256</param>
+                        <param name="mode">0</param>
+                    </property>
+                </property>
+            </property>
+        </property>
+        <property name="Data">
+            <param name="topDown">1</param>
+            <param name="name">simulated_sweep1</param>
+            <param name="blockId">1</param>
+            <param name="original">1</param>
+            <param name="linkMPR">0</param>
+            <param name="hide3D">1</param>
+            <param name="viewsShown"></param>
+            <param name="uid">data1</param>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="Components">
+                <property name="DisplayOptions2d">
+                    <param name="gamma">1</param>
+                    <param name="invert">0</param>
+                    <param name="useMask">1</param>
+                    <param name="wlInOriginalValues">1</param>
+                    <property name="TransferFunction">
+                        <param name="window">255</param>
+                        <param name="level">127.5</param>
+                        <param name="presetName"></param>
+                        <param name="textureSize">256</param>
+                        <param name="mode">0</param>
+                    </property>
+                </property>
+            </property>
+        </property>
+        <property name="Data">
+            <param name="topDown">1</param>
+            <param name="name">simulated_sweep3</param>
+            <param name="blockId">1</param>
+            <param name="original">1</param>
+            <param name="linkMPR">0</param>
+            <param name="hide3D">1</param>
+            <param name="viewsShown"></param>
+            <param name="uid">data2</param>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="Components">
+                <property name="DisplayOptions2d">
+                    <param name="gamma">1</param>
+                    <param name="invert">0</param>
+                    <param name="useMask">1</param>
+                    <param name="wlInOriginalValues">1</param>
+                    <property name="TransferFunction">
+                        <param name="window">255</param>
+                        <param name="level">127.5</param>
+                        <param name="presetName"></param>
+                        <param name="textureSize">256</param>
+                        <param name="mode">0</param>
+                    </property>
+                </property>
+            </property>
+        </property>
+        <property name="Data">
+            <param name="topDown">1</param>
+            <param name="name">simulated_sweep2</param>
+            <param name="blockId">1</param>
+            <param name="original">1</param>
+            <param name="linkMPR">0</param>
+            <param name="hide3D">1</param>
+            <param name="viewsShown"></param>
+            <param name="uid">data3</param>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="Components">
+                <property name="DisplayOptions2d">
+                    <param name="gamma">1</param>
+                    <param name="invert">0</param>
+                    <param name="useMask">1</param>
+                    <param name="wlInOriginalValues">1</param>
+                    <property name="TransferFunction">
+                        <param name="window">255</param>
+                        <param name="level">127.5</param>
+                        <param name="presetName"></param>
+                        <param name="textureSize">256</param>
+                        <param name="mode">0</param>
+                    </property>
+                </property>
+            </property>
+        </property>
+        <property name="Data">
+            <param name="topDown">1</param>
+            <param name="name">simulated_sweep4</param>
+            <param name="blockId">1</param>
+            <param name="original">1</param>
+            <param name="linkMPR">0</param>
+            <param name="hide3D">1</param>
+            <param name="viewsShown"></param>
+            <param name="uid">data4</param>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="Components">
+                <property name="DisplayOptions2d">
+                    <param name="gamma">1</param>
+                    <param name="invert">0</param>
+                    <param name="useMask">1</param>
+                    <param name="wlInOriginalValues">1</param>
+                    <property name="TransferFunction">
+                        <param name="window">255</param>
+                        <param name="level">127.5</param>
+                        <param name="presetName"></param>
+                        <param name="textureSize">256</param>
+                        <param name="mode">0</param>
+                    </property>
+                </property>
+            </property>
+        </property>
+        <property name="Data">
+            <param name="topDown">1</param>
+            <param name="name">simulated_sweep5</param>
+            <param name="blockId">1</param>
+            <param name="original">1</param>
+            <param name="linkMPR">0</param>
+            <param name="hide3D">1</param>
+            <param name="viewsShown"></param>
+            <param name="uid">data5</param>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="Components">
+                <property name="DisplayOptions2d">
+                    <param name="gamma">1</param>
+                    <param name="invert">0</param>
+                    <param name="useMask">1</param>
+                    <param name="wlInOriginalValues">1</param>
+                    <property name="TransferFunction">
+                        <param name="window">255</param>
+                        <param name="level">127.5</param>
+                        <param name="presetName"></param>
+                        <param name="textureSize">256</param>
+                        <param name="mode">0</param>
+                    </property>
+                </property>
+            </property>
+        </property>
+        <property name="Data">
+            <param name="topDown">1</param>
+            <param name="name">simulated_sweep6</param>
+            <param name="blockId">1</param>
+            <param name="original">1</param>
+            <param name="linkMPR">0</param>
+            <param name="hide3D">1</param>
+            <param name="viewsShown"></param>
+            <param name="uid">data6</param>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="Components">
+                <property name="DisplayOptions2d">
+                    <param name="gamma">1</param>
+                    <param name="invert">0</param>
+                    <param name="useMask">1</param>
+                    <param name="wlInOriginalValues">1</param>
+                    <property name="TransferFunction">
+                        <param name="window">255</param>
+                        <param name="level">127.5</param>
+                        <param name="presetName"></param>
+                        <param name="textureSize">256</param>
+                        <param name="mode">0</param>
+                    </property>
+                </property>
+            </property>
+        </property>
+        <property name="Data">
+            <param name="topDown">1</param>
+            <param name="name">simulated_sweep8</param>
+            <param name="blockId">1</param>
+            <param name="original">1</param>
+            <param name="linkMPR">0</param>
+            <param name="hide3D">1</param>
+            <param name="viewsShown"></param>
+            <param name="uid">data8</param>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="Components">
+                <property name="DisplayOptions2d">
+                    <param name="gamma">1</param>
+                    <param name="invert">0</param>
+                    <param name="useMask">1</param>
+                    <param name="wlInOriginalValues">1</param>
+                    <property name="TransferFunction">
+                        <param name="window">255</param>
+                        <param name="level">127.5</param>
+                        <param name="presetName"></param>
+                        <param name="textureSize">256</param>
+                        <param name="mode">0</param>
+                    </property>
+                </property>
+            </property>
+        </property>
+        <property name="Data">
+            <param name="topDown">1</param>
+            <param name="name">simulated_sweep9</param>
+            <param name="blockId">1</param>
+            <param name="original">1</param>
+            <param name="linkMPR">0</param>
+            <param name="hide3D">1</param>
+            <param name="viewsShown"></param>
+            <param name="uid">data9</param>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="Components">
+                <property name="DisplayOptions2d">
+                    <param name="gamma">1</param>
+                    <param name="invert">0</param>
+                    <param name="useMask">1</param>
+                    <param name="wlInOriginalValues">1</param>
+                    <property name="TransferFunction">
+                        <param name="window">255</param>
+                        <param name="level">127.5</param>
+                        <param name="presetName"></param>
+                        <param name="textureSize">256</param>
+                        <param name="mode">0</param>
+                    </property>
+                </property>
+            </property>
+        </property>
+        <property name="Data">
+            <param name="topDown">1</param>
+            <param name="name">simulated_sweep10</param>
+            <param name="blockId">1</param>
+            <param name="original">1</param>
+            <param name="linkMPR">0</param>
+            <param name="hide3D">1</param>
+            <param name="viewsShown"></param>
+            <param name="uid">data10</param>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="Components">
+                <property name="DisplayOptions2d">
+                    <param name="gamma">1</param>
+                    <param name="invert">0</param>
+                    <param name="useMask">1</param>
+                    <param name="wlInOriginalValues">1</param>
+                    <property name="TransferFunction">
+                        <param name="window">255</param>
+                        <param name="level">127.5</param>
+                        <param name="presetName"></param>
+                        <param name="textureSize">256</param>
+                        <param name="mode">0</param>
+                    </property>
+                </property>
+            </property>
+        </property>
+        <property name="Data">
+            <param name="topDown">1</param>
+            <param name="name">simulated_sweep11</param>
+            <param name="blockId">1</param>
+            <param name="original">1</param>
+            <param name="linkMPR">0</param>
+            <param name="hide3D">1</param>
+            <param name="viewsShown"></param>
+            <param name="uid">data11</param>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="Components">
+                <property name="DisplayOptions2d">
+                    <param name="gamma">1</param>
+                    <param name="invert">0</param>
+                    <param name="useMask">1</param>
+                    <param name="wlInOriginalValues">1</param>
+                    <property name="TransferFunction">
+                        <param name="window">255</param>
+                        <param name="level">127.5</param>
+                        <param name="presetName"></param>
+                        <param name="textureSize">256</param>
+                        <param name="mode">0</param>
+                    </property>
+                </property>
+            </property>
+        </property>
+        <property name="Data">
+            <param name="topDown">1</param>
+            <param name="name">simulated_sweep12</param>
+            <param name="blockId">1</param>
+            <param name="original">1</param>
+            <param name="linkMPR">0</param>
+            <param name="hide3D">1</param>
+            <param name="viewsShown"></param>
+            <param name="uid">data12</param>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="Components">
+                <property name="DisplayOptions2d">
+                    <param name="gamma">1</param>
+                    <param name="invert">0</param>
+                    <param name="useMask">1</param>
+                    <param name="wlInOriginalValues">1</param>
+                    <property name="TransferFunction">
+                        <param name="window">255</param>
+                        <param name="level">127.5</param>
+                        <param name="presetName"></param>
+                        <param name="textureSize">256</param>
+                        <param name="mode">0</param>
+                    </property>
+                </property>
+            </property>
+        </property>
+        <property name="Data">
+            <param name="topDown">1</param>
+            <param name="name">simulated_sweep13</param>
+            <param name="blockId">1</param>
+            <param name="original">1</param>
+            <param name="linkMPR">0</param>
+            <param name="hide3D">1</param>
+            <param name="viewsShown"></param>
+            <param name="uid">data13</param>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="Components">
+                <property name="DisplayOptions2d">
+                    <param name="gamma">1</param>
+                    <param name="invert">0</param>
+                    <param name="useMask">1</param>
+                    <param name="wlInOriginalValues">1</param>
+                    <property name="TransferFunction">
+                        <param name="window">255</param>
+                        <param name="level">127.5</param>
+                        <param name="presetName"></param>
+                        <param name="textureSize">256</param>
+                        <param name="mode">0</param>
+                    </property>
+                </property>
+            </property>
+        </property>
+        <property name="Data">
+            <param name="topDown">1</param>
+            <param name="name">simulated_sweep14</param>
+            <param name="blockId">1</param>
+            <param name="original">1</param>
+            <param name="linkMPR">0</param>
+            <param name="hide3D">1</param>
+            <param name="viewsShown"></param>
+            <param name="uid">data14</param>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="Components">
+                <property name="DisplayOptions2d">
+                    <param name="gamma">1</param>
+                    <param name="invert">0</param>
+                    <param name="useMask">1</param>
+                    <param name="wlInOriginalValues">1</param>
+                    <property name="TransferFunction">
+                        <param name="window">255</param>
+                        <param name="level">127.5</param>
+                        <param name="presetName"></param>
+                        <param name="textureSize">256</param>
+                        <param name="mode">0</param>
+                    </property>
+                </property>
+            </property>
+        </property>
+        <property name="Data">
+            <param name="uid">data16</param>
+            <param name="name">square</param>
+            <param name="transformation">1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 </param>
+        </property>
+        <property name="Data">
+            <param name="uid">data17</param>
+            <param name="name">kegel_grid</param>
+            <param name="transformation">1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 </param>
+        </property>
+        <property name="Data">
+            <param name="topDown">1</param>
+            <param name="name">simulated_sweep15</param>
+            <param name="blockId">1</param>
+            <param name="original">1</param>
+            <param name="linkMPR">0</param>
+            <param name="hide3D">1</param>
+            <param name="viewsShown"></param>
+            <param name="uid">data18</param>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="Components">
+                <property name="DisplayOptions2d">
+                    <param name="gamma">1</param>
+                    <param name="invert">0</param>
+                    <param name="useMask">1</param>
+                    <param name="wlInOriginalValues">1</param>
+                    <property name="TransferFunction">
+                        <param name="window">255</param>
+                        <param name="level">127.5</param>
+                        <param name="presetName"></param>
+                        <param name="textureSize">256</param>
+                        <param name="mode">0</param>
+                    </property>
+                </property>
+            </property>
+        </property>
+        <property name="Data">
+            <param name="topDown">1</param>
+            <param name="name">simulated_sweep16</param>
+            <param name="blockId">1</param>
+            <param name="original">1</param>
+            <param name="linkMPR">0</param>
+            <param name="hide3D">1</param>
+            <param name="viewsShown"></param>
+            <param name="uid">data19</param>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="Components">
+                <property name="DisplayOptions2d">
+                    <param name="gamma">1</param>
+                    <param name="invert">0</param>
+                    <param name="useMask">1</param>
+                    <param name="wlInOriginalValues">1</param>
+                    <property name="TransferFunction">
+                        <param name="window">255</param>
+                        <param name="level">127.5</param>
+                        <param name="presetName"></param>
+                        <param name="textureSize">256</param>
+                        <param name="mode">0</param>
+                    </property>
+                </property>
+            </property>
+        </property>
+        <property name="Data">
+            <param name="topDown">1</param>
+            <param name="name">simulated_sweep17</param>
+            <param name="blockId">1</param>
+            <param name="original">1</param>
+            <param name="linkMPR">0</param>
+            <param name="hide3D">1</param>
+            <param name="viewsShown"></param>
+            <param name="uid">data20</param>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="Components">
+                <property name="DisplayOptions2d">
+                    <param name="gamma">1</param>
+                    <param name="invert">0</param>
+                    <param name="useMask">1</param>
+                    <param name="wlInOriginalValues">1</param>
+                    <property name="TransferFunction">
+                        <param name="window">255</param>
+                        <param name="level">127.5</param>
+                        <param name="presetName"></param>
+                        <param name="textureSize">256</param>
+                        <param name="mode">0</param>
+                    </property>
+                </property>
+            </property>
+        </property>
+        <property name="Data">
+            <param name="topDown">1</param>
+            <param name="name">simulated_sweep18</param>
+            <param name="blockId">1</param>
+            <param name="original">1</param>
+            <param name="linkMPR">0</param>
+            <param name="hide3D">1</param>
+            <param name="viewsShown"></param>
+            <param name="uid">data21</param>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="Components">
+                <property name="DisplayOptions2d">
+                    <param name="gamma">1</param>
+                    <param name="invert">0</param>
+                    <param name="useMask">1</param>
+                    <param name="wlInOriginalValues">1</param>
+                    <property name="TransferFunction">
+                        <param name="window">255</param>
+                        <param name="level">127.5</param>
+                        <param name="presetName"></param>
+                        <param name="textureSize">256</param>
+                        <param name="mode">0</param>
+                    </property>
+                </property>
+            </property>
+        </property>
+        <property name="Data">
+            <param name="topDown">1</param>
+            <param name="name">simulated_sweep19</param>
+            <param name="blockId">1</param>
+            <param name="original">1</param>
+            <param name="linkMPR">0</param>
+            <param name="hide3D">1</param>
+            <param name="viewsShown"></param>
+            <param name="uid">data22</param>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="Components">
+                <property name="DisplayOptions2d">
+                    <param name="gamma">1</param>
+                    <param name="invert">0</param>
+                    <param name="useMask">1</param>
+                    <param name="wlInOriginalValues">1</param>
+                    <property name="TransferFunction">
+                        <param name="window">255</param>
+                        <param name="level">127.5</param>
+                        <param name="presetName"></param>
+                        <param name="textureSize">256</param>
+                        <param name="mode">0</param>
+                    </property>
+                </property>
+            </property>
+        </property>
+        <property name="Data">
+            <param name="topDown">1</param>
+            <param name="name">simulated_sweep20</param>
+            <param name="blockId">1</param>
+            <param name="original">1</param>
+            <param name="linkMPR">0</param>
+            <param name="hide3D">1</param>
+            <param name="viewsShown"></param>
+            <param name="uid">data23</param>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="Components">
+                <property name="DisplayOptions2d">
+                    <param name="gamma">1</param>
+                    <param name="invert">0</param>
+                    <param name="useMask">1</param>
+                    <param name="wlInOriginalValues">1</param>
+                    <property name="TransferFunction">
+                        <param name="window">255</param>
+                        <param name="level">127.5</param>
+                        <param name="presetName"></param>
+                        <param name="textureSize">256</param>
+                        <param name="mode">0</param>
+                    </property>
+                </property>
+            </property>
+        </property>
+        <property name="Data">
+            <param name="topDown">1</param>
+            <param name="name">simulated_sweep21</param>
+            <param name="blockId">1</param>
+            <param name="original">1</param>
+            <param name="linkMPR">0</param>
+            <param name="hide3D">1</param>
+            <param name="viewsShown"></param>
+            <param name="uid">data24</param>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="Components">
+                <property name="DisplayOptions2d">
+                    <param name="gamma">1</param>
+                    <param name="invert">0</param>
+                    <param name="useMask">1</param>
+                    <param name="wlInOriginalValues">1</param>
+                    <property name="TransferFunction">
+                        <param name="window">255</param>
+                        <param name="level">127.5</param>
+                        <param name="presetName"></param>
+                        <param name="textureSize">256</param>
+                        <param name="mode">0</param>
+                    </property>
+                </property>
+            </property>
+        </property>
+        <property name="Data">
+            <param name="topDown">1</param>
+            <param name="name">simulated_sweep22</param>
+            <param name="blockId">1</param>
+            <param name="original">1</param>
+            <param name="linkMPR">0</param>
+            <param name="hide3D">1</param>
+            <param name="viewsShown"></param>
+            <param name="uid">data25</param>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="Components">
+                <property name="DisplayOptions2d">
+                    <param name="gamma">1</param>
+                    <param name="invert">0</param>
+                    <param name="useMask">1</param>
+                    <param name="wlInOriginalValues">1</param>
+                    <property name="TransferFunction">
+                        <param name="window">255</param>
+                        <param name="level">127.5</param>
+                        <param name="presetName"></param>
+                        <param name="textureSize">256</param>
+                        <param name="mode">0</param>
+                    </property>
+                </property>
+            </property>
+        </property>
+        <property name="Data">
+            <param name="topDown">1</param>
+            <param name="name">simulated_sweep23</param>
+            <param name="blockId">1</param>
+            <param name="original">1</param>
+            <param name="linkMPR">0</param>
+            <param name="hide3D">1</param>
+            <param name="viewsShown"></param>
+            <param name="uid">data26</param>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="Components">
+                <property name="DisplayOptions2d">
+                    <param name="gamma">1</param>
+                    <param name="invert">0</param>
+                    <param name="useMask">1</param>
+                    <param name="wlInOriginalValues">1</param>
+                    <property name="TransferFunction">
+                        <param name="window">255</param>
+                        <param name="level">127.5</param>
+                        <param name="presetName"></param>
+                        <param name="textureSize">256</param>
+                        <param name="mode">0</param>
+                    </property>
+                </property>
+            </property>
+        </property>
+        <property name="Data">
+            <param name="uid">data36</param>
+            <param name="name">kegel_ribs</param>
+            <param name="transformation">1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 </param>
+        </property>
+        <property name="Data">
+            <param name="original">1</param>
+            <param name="topDown">1</param>
+            <param name="uid">data37</param>
+            <param name="name">Ultrasound Volume</param>
+            <param name="transformation">0 1 0 -7.70357142857143 0 0 -1 30 -1 0 0 -7.105427357601e-15 0 0 0 1 </param>
+            <property name="Components">
+                <property name="DisplayOptions2d">
+                    <param name="gamma">1</param>
+                    <param name="invert">0</param>
+                    <param name="useMask">1</param>
+                    <param name="wlInOriginalValues">1</param>
+                    <property name="TransferFunction">
+                        <param name="window">255</param>
+                        <param name="level">127.5</param>
+                        <param name="presetName"></param>
+                        <param name="textureSize">256</param>
+                        <param name="mode">0</param>
+                    </property>
+                </property>
+                <property name="DisplayOptions3d">
+                    <param name="alpha">1</param>
+                    <param name="invert">0</param>
+                    <param name="useMask">1</param>
+                    <param name="wlInOriginalValues">1</param>
+                    <property name="TransferFunction">
+                        <param name="window">255</param>
+                        <param name="level">127.5</param>
+                        <param name="presetName">Ultrasound</param>
+                        <param name="textureSize">256</param>
+                        <param name="mode">0</param>
+                        <property name="Tissues">
+                            <property name="Tissue">
+                                <property name="KeyPoint">
+                                    <param name="position">0.3</param>
+                                    <param name="color">0.3 0.25 0.2 0.1 </param>
+                                </property>
+                                <property name="KeyPoint">
+                                    <param name="position">0.6</param>
+                                    <param name="color">1 1 1 0.2 </param>
+                                </property>
+                                <property name="KeyPoint">
+                                    <param name="position">0.65</param>
+                                    <param name="color">1 0.8 0.5 0.5 </param>
+                                </property>
+                                <property name="KeyPoint">
+                                    <param name="position">1</param>
+                                    <param name="color">1 0.9 0.7 0.5 </param>
+                                </property>
+                            </property>
+                        </property>
+                    </property>
+                </property>
+            </property>
+        </property>
+    </property>
+    <property name="Interface">
+        <param name="outputUids">"data0" "data1" "data2" "data3" "data4" "data5" "data6" "data8" "data9" "data10" "data11" "data12" "data13" "data14" "data16" "data17" "data18" "data19" "data20" "data21" "data22" "data23" "data24" "data25" "data26" "data36" "data37" </param>
+        <param name="inputUids"></param>
+    </property>
+    <property name="Algorithms">
+        <property name="ImFusionFile">
+            <param name="location">sweeps/simulated_sweep7.imf</param>
+            <param name="compressionMode">0</param>
+            <param name="passes">1</param>
+            <param name="dx">3</param>
+            <param name="dy">3</param>
+            <param name="ignoredDataComponentIds"></param>
+            <param name="blockId">-1</param>
+            <param name="execute">1</param>
+            <param name="inputUids"></param>
+            <param name="outputUids">"data0" </param>
+        </property>
+        <property name="ImFusionFile">
+            <param name="location">sweeps/simulated_sweep1.imf</param>
+            <param name="compressionMode">0</param>
+            <param name="passes">1</param>
+            <param name="dx">3</param>
+            <param name="dy">3</param>
+            <param name="ignoredDataComponentIds"></param>
+            <param name="blockId">-1</param>
+            <param name="execute">1</param>
+            <param name="inputUids"></param>
+            <param name="outputUids">"data1" </param>
+        </property>
+        <property name="ImFusionFile">
+            <param name="location">sweeps/simulated_sweep3.imf</param>
+            <param name="compressionMode">0</param>
+            <param name="passes">1</param>
+            <param name="dx">3</param>
+            <param name="dy">3</param>
+            <param name="ignoredDataComponentIds"></param>
+            <param name="blockId">-1</param>
+            <param name="execute">1</param>
+            <param name="inputUids"></param>
+            <param name="outputUids">"data2" </param>
+        </property>
+        <property name="ImFusionFile">
+            <param name="location">sweeps/simulated_sweep2.imf</param>
+            <param name="compressionMode">0</param>
+            <param name="passes">1</param>
+            <param name="dx">3</param>
+            <param name="dy">3</param>
+            <param name="ignoredDataComponentIds"></param>
+            <param name="blockId">-1</param>
+            <param name="execute">1</param>
+            <param name="inputUids"></param>
+            <param name="outputUids">"data3" </param>
+        </property>
+        <property name="ImFusionFile">
+            <param name="location">sweeps/simulated_sweep4.imf</param>
+            <param name="compressionMode">0</param>
+            <param name="passes">1</param>
+            <param name="dx">3</param>
+            <param name="dy">3</param>
+            <param name="ignoredDataComponentIds"></param>
+            <param name="blockId">-1</param>
+            <param name="execute">1</param>
+            <param name="inputUids"></param>
+            <param name="outputUids">"data4" </param>
+        </property>
+        <property name="ImFusionFile">
+            <param name="location">sweeps/simulated_sweep5.imf</param>
+            <param name="compressionMode">0</param>
+            <param name="passes">1</param>
+            <param name="dx">3</param>
+            <param name="dy">3</param>
+            <param name="ignoredDataComponentIds"></param>
+            <param name="blockId">-1</param>
+            <param name="execute">1</param>
+            <param name="inputUids"></param>
+            <param name="outputUids">"data5" </param>
+        </property>
+        <property name="ImFusionFile">
+            <param name="location">sweeps/simulated_sweep6.imf</param>
+            <param name="compressionMode">0</param>
+            <param name="passes">1</param>
+            <param name="dx">3</param>
+            <param name="dy">3</param>
+            <param name="ignoredDataComponentIds"></param>
+            <param name="blockId">-1</param>
+            <param name="execute">1</param>
+            <param name="inputUids"></param>
+            <param name="outputUids">"data6" </param>
+        </property>
+        <property name="ImFusionFile">
+            <param name="location">sweeps/simulated_sweep7.imf</param>
+            <param name="compressionMode">0</param>
+            <param name="passes">1</param>
+            <param name="dx">3</param>
+            <param name="dy">3</param>
+            <param name="ignoredDataComponentIds"></param>
+            <param name="blockId">-1</param>
+            <param name="execute">1</param>
+            <param name="inputUids"></param>
+            <param name="outputUids">"data7" </param>
+        </property>
+        <property name="ImFusionFile">
+            <param name="location">sweeps/simulated_sweep8.imf</param>
+            <param name="compressionMode">0</param>
+            <param name="passes">1</param>
+            <param name="dx">3</param>
+            <param name="dy">3</param>
+            <param name="ignoredDataComponentIds"></param>
+            <param name="blockId">-1</param>
+            <param name="execute">1</param>
+            <param name="inputUids"></param>
+            <param name="outputUids">"data8" </param>
+        </property>
+        <property name="ImFusionFile">
+            <param name="location">sweeps/simulated_sweep9.imf</param>
+            <param name="compressionMode">0</param>
+            <param name="passes">1</param>
+            <param name="dx">3</param>
+            <param name="dy">3</param>
+            <param name="ignoredDataComponentIds"></param>
+            <param name="blockId">-1</param>
+            <param name="execute">1</param>
+            <param name="inputUids"></param>
+            <param name="outputUids">"data9" </param>
+        </property>
+        <property name="ImFusionFile">
+            <param name="location">sweeps/simulated_sweep10.imf</param>
+            <param name="compressionMode">0</param>
+            <param name="passes">1</param>
+            <param name="dx">3</param>
+            <param name="dy">3</param>
+            <param name="ignoredDataComponentIds"></param>
+            <param name="blockId">-1</param>
+            <param name="execute">1</param>
+            <param name="inputUids"></param>
+            <param name="outputUids">"data10" </param>
+        </property>
+        <property name="ImFusionFile">
+            <param name="location">sweeps/simulated_sweep11.imf</param>
+            <param name="compressionMode">0</param>
+            <param name="passes">1</param>
+            <param name="dx">3</param>
+            <param name="dy">3</param>
+            <param name="ignoredDataComponentIds"></param>
+            <param name="blockId">-1</param>
+            <param name="execute">1</param>
+            <param name="inputUids"></param>
+            <param name="outputUids">"data11" </param>
+        </property>
+        <property name="ImFusionFile">
+            <param name="location">sweeps/simulated_sweep12.imf</param>
+            <param name="compressionMode">0</param>
+            <param name="passes">1</param>
+            <param name="dx">3</param>
+            <param name="dy">3</param>
+            <param name="ignoredDataComponentIds"></param>
+            <param name="blockId">-1</param>
+            <param name="execute">1</param>
+            <param name="inputUids"></param>
+            <param name="outputUids">"data12" </param>
+        </property>
+        <property name="ImFusionFile">
+            <param name="location">sweeps/simulated_sweep13.imf</param>
+            <param name="compressionMode">0</param>
+            <param name="passes">1</param>
+            <param name="dx">3</param>
+            <param name="dy">3</param>
+            <param name="ignoredDataComponentIds"></param>
+            <param name="blockId">-1</param>
+            <param name="execute">1</param>
+            <param name="inputUids"></param>
+            <param name="outputUids">"data13" </param>
+        </property>
+        <property name="ImFusionFile">
+            <param name="location">sweeps/simulated_sweep14.imf</param>
+            <param name="compressionMode">0</param>
+            <param name="passes">1</param>
+            <param name="dx">3</param>
+            <param name="dy">3</param>
+            <param name="ignoredDataComponentIds"></param>
+            <param name="blockId">-1</param>
+            <param name="execute">1</param>
+            <param name="inputUids"></param>
+            <param name="outputUids">"data14" </param>
+        </property>
+        <property name="ImFusionFile">
+            <param name="location">sweeps/simulated_sweep14.imf</param>
+            <param name="compressionMode">0</param>
+            <param name="passes">1</param>
+            <param name="dx">3</param>
+            <param name="dy">3</param>
+            <param name="ignoredDataComponentIds"></param>
+            <param name="blockId">-1</param>
+            <param name="execute">1</param>
+            <param name="inputUids"></param>
+            <param name="outputUids">"data15" </param>
+        </property>
+        <property name="Mesh File">
+            <param name="location">3dModels/square.stl</param>
+            <param name="applyMatrixBeforeSaving">1</param>
+            <param name="saveTexture">1</param>
+            <param name="loadScaling">1</param>
+            <param name="execute">1</param>
+            <param name="inputUids"></param>
+            <param name="outputUids">"data16" </param>
+        </property>
+        <property name="Mesh File">
+            <param name="location">3dModels/kegel_grid.stl</param>
+            <param name="applyMatrixBeforeSaving">1</param>
+            <param name="saveTexture">1</param>
+            <param name="loadScaling">1</param>
+            <param name="execute">1</param>
+            <param name="inputUids"></param>
+            <param name="outputUids">"data17" </param>
+        </property>
+        <property name="Delete Data">
+            <param name="execute">1</param>
+            <param name="inputUids">"data15" </param>
+            <param name="outputUids"></param>
+        </property>
+        <property name="ImFusionFile">
+            <param name="location">sweeps/simulated_sweep15.imf</param>
+            <param name="compressionMode">0</param>
+            <param name="passes">1</param>
+            <param name="dx">3</param>
+            <param name="dy">3</param>
+            <param name="ignoredDataComponentIds"></param>
+            <param name="blockId">-1</param>
+            <param name="execute">1</param>
+            <param name="inputUids"></param>
+            <param name="outputUids">"data18" </param>
+        </property>
+        <property name="ImFusionFile">
+            <param name="location">sweeps/simulated_sweep16.imf</param>
+            <param name="compressionMode">0</param>
+            <param name="passes">1</param>
+            <param name="dx">3</param>
+            <param name="dy">3</param>
+            <param name="ignoredDataComponentIds"></param>
+            <param name="blockId">-1</param>
+            <param name="execute">1</param>
+            <param name="inputUids"></param>
+            <param name="outputUids">"data19" </param>
+        </property>
+        <property name="ImFusionFile">
+            <param name="location">sweeps/simulated_sweep17.imf</param>
+            <param name="compressionMode">0</param>
+            <param name="passes">1</param>
+            <param name="dx">3</param>
+            <param name="dy">3</param>
+            <param name="ignoredDataComponentIds"></param>
+            <param name="blockId">-1</param>
+            <param name="execute">1</param>
+            <param name="inputUids"></param>
+            <param name="outputUids">"data20" </param>
+        </property>
+        <property name="ImFusionFile">
+            <param name="location">sweeps/simulated_sweep18.imf</param>
+            <param name="compressionMode">0</param>
+            <param name="passes">1</param>
+            <param name="dx">3</param>
+            <param name="dy">3</param>
+            <param name="ignoredDataComponentIds"></param>
+            <param name="blockId">-1</param>
+            <param name="execute">1</param>
+            <param name="inputUids"></param>
+            <param name="outputUids">"data21" </param>
+        </property>
+        <property name="ImFusionFile">
+            <param name="location">sweeps/simulated_sweep19.imf</param>
+            <param name="compressionMode">0</param>
+            <param name="passes">1</param>
+            <param name="dx">3</param>
+            <param name="dy">3</param>
+            <param name="ignoredDataComponentIds"></param>
+            <param name="blockId">-1</param>
+            <param name="execute">1</param>
+            <param name="inputUids"></param>
+            <param name="outputUids">"data22" </param>
+        </property>
+        <property name="ImFusionFile">
+            <param name="location">sweeps/simulated_sweep20.imf</param>
+            <param name="compressionMode">0</param>
+            <param name="passes">1</param>
+            <param name="dx">3</param>
+            <param name="dy">3</param>
+            <param name="ignoredDataComponentIds"></param>
+            <param name="blockId">-1</param>
+            <param name="execute">1</param>
+            <param name="inputUids"></param>
+            <param name="outputUids">"data23" </param>
+        </property>
+        <property name="ImFusionFile">
+            <param name="location">sweeps/simulated_sweep21.imf</param>
+            <param name="compressionMode">0</param>
+            <param name="passes">1</param>
+            <param name="dx">3</param>
+            <param name="dy">3</param>
+            <param name="ignoredDataComponentIds"></param>
+            <param name="blockId">-1</param>
+            <param name="execute">1</param>
+            <param name="inputUids"></param>
+            <param name="outputUids">"data24" </param>
+        </property>
+        <property name="ImFusionFile">
+            <param name="location">sweeps/simulated_sweep22.imf</param>
+            <param name="compressionMode">0</param>
+            <param name="passes">1</param>
+            <param name="dx">3</param>
+            <param name="dy">3</param>
+            <param name="ignoredDataComponentIds"></param>
+            <param name="blockId">-1</param>
+            <param name="execute">1</param>
+            <param name="inputUids"></param>
+            <param name="outputUids">"data25" </param>
+        </property>
+        <property name="ImFusionFile">
+            <param name="location">sweeps/simulated_sweep23.imf</param>
+            <param name="compressionMode">0</param>
+            <param name="passes">1</param>
+            <param name="dx">3</param>
+            <param name="dy">3</param>
+            <param name="ignoredDataComponentIds"></param>
+            <param name="blockId">-1</param>
+            <param name="execute">1</param>
+            <param name="inputUids"></param>
+            <param name="outputUids">"data26" </param>
+        </property>
+        <property name="ImFusionFile">
+            <param name="location">sweeps/simulated_sweep24.imf</param>
+            <param name="compressionMode">0</param>
+            <param name="passes">1</param>
+            <param name="dx">3</param>
+            <param name="dy">3</param>
+            <param name="ignoredDataComponentIds"></param>
+            <param name="blockId">-1</param>
+            <param name="execute">1</param>
+            <param name="inputUids"></param>
+            <param name="outputUids">"data27" </param>
+        </property>
+        <property name="ImFusionFile">
+            <param name="location">sweeps/simulated_sweep25.imf</param>
+            <param name="compressionMode">0</param>
+            <param name="passes">1</param>
+            <param name="dx">3</param>
+            <param name="dy">3</param>
+            <param name="ignoredDataComponentIds"></param>
+            <param name="blockId">-1</param>
+            <param name="execute">1</param>
+            <param name="inputUids"></param>
+            <param name="outputUids">"data28" </param>
+        </property>
+        <property name="ImFusionFile">
+            <param name="location">sweeps/simulated_sweep26.imf</param>
+            <param name="compressionMode">0</param>
+            <param name="passes">1</param>
+            <param name="dx">3</param>
+            <param name="dy">3</param>
+            <param name="ignoredDataComponentIds"></param>
+            <param name="blockId">-1</param>
+            <param name="execute">1</param>
+            <param name="inputUids"></param>
+            <param name="outputUids">"data29" </param>
+        </property>
+        <property name="ImFusionFile">
+            <param name="location">sweeps/simulated_sweep27.imf</param>
+            <param name="compressionMode">0</param>
+            <param name="passes">1</param>
+            <param name="dx">3</param>
+            <param name="dy">3</param>
+            <param name="ignoredDataComponentIds"></param>
+            <param name="blockId">-1</param>
+            <param name="execute">1</param>
+            <param name="inputUids"></param>
+            <param name="outputUids">"data30" </param>
+        </property>
+        <property name="ImFusionFile">
+            <param name="location">sweeps/simulated_sweep28.imf</param>
+            <param name="compressionMode">0</param>
+            <param name="passes">1</param>
+            <param name="dx">3</param>
+            <param name="dy">3</param>
+            <param name="ignoredDataComponentIds"></param>
+            <param name="blockId">-1</param>
+            <param name="execute">1</param>
+            <param name="inputUids"></param>
+            <param name="outputUids">"data31" </param>
+        </property>
+        <property name="ImFusionFile">
+            <param name="location">sweeps/simulated_sweep29.imf</param>
+            <param name="compressionMode">0</param>
+            <param name="passes">1</param>
+            <param name="dx">3</param>
+            <param name="dy">3</param>
+            <param name="ignoredDataComponentIds"></param>
+            <param name="blockId">-1</param>
+            <param name="execute">1</param>
+            <param name="inputUids"></param>
+            <param name="outputUids">"data32" </param>
+        </property>
+        <property name="ImFusionFile">
+            <param name="location">sweeps/simulated_sweep6.imf</param>
+            <param name="compressionMode">0</param>
+            <param name="passes">1</param>
+            <param name="dx">3</param>
+            <param name="dy">3</param>
+            <param name="ignoredDataComponentIds"></param>
+            <param name="blockId">-1</param>
+            <param name="execute">1</param>
+            <param name="inputUids"></param>
+            <param name="outputUids">"data33" </param>
+        </property>
+        <property name="ImFusionFile">
+            <param name="location">sweeps/simulated_sweep5.imf</param>
+            <param name="compressionMode">0</param>
+            <param name="passes">1</param>
+            <param name="dx">3</param>
+            <param name="dy">3</param>
+            <param name="ignoredDataComponentIds"></param>
+            <param name="blockId">-1</param>
+            <param name="execute">1</param>
+            <param name="inputUids"></param>
+            <param name="outputUids">"data34" </param>
+        </property>
+        <property name="ImFusionFile">
+            <param name="location">sweeps/simulated_sweep4.imf</param>
+            <param name="compressionMode">0</param>
+            <param name="passes">1</param>
+            <param name="dx">3</param>
+            <param name="dy">3</param>
+            <param name="ignoredDataComponentIds"></param>
+            <param name="blockId">-1</param>
+            <param name="execute">1</param>
+            <param name="inputUids"></param>
+            <param name="outputUids">"data35" </param>
+        </property>
+        <property name="Mesh File">
+            <param name="location">3dModels/kegel_ribs.stl</param>
+            <param name="applyMatrixBeforeSaving">1</param>
+            <param name="saveTexture">1</param>
+            <param name="loadScaling">1</param>
+            <param name="execute">1</param>
+            <param name="inputUids"></param>
+            <param name="outputUids">"data36" </param>
+        </property>
+        <property name="Delete Data">
+            <param name="execute">1</param>
+            <param name="inputUids">"data27" "data28" "data29" "data30" "data31" "data32" </param>
+            <param name="outputUids"></param>
+        </property>
+        <property name="Delete Data">
+            <param name="execute">1</param>
+            <param name="inputUids">"data34" "data35" </param>
+            <param name="outputUids"></param>
+        </property>
+        <property name="Delete Data">
+            <param name="execute">1</param>
+            <param name="inputUids">"data33" </param>
+            <param name="outputUids"></param>
+        </property>
+        <property name="Delete Data">
+            <param name="execute">1</param>
+            <param name="inputUids">"data7" </param>
+            <param name="outputUids"></param>
+        </property>
+        <property name="Sweep Compounding">
+            <param name="backgroundIntensity">0</param>
+            <param name="alignToAxis">1</param>
+            <param name="individualCompoundings">0</param>
+            <param name="execute">1</param>
+            <param name="inputUids">"data0" "data1" "data2" "data3" "data4" "data5" "data6" "data8" "data9" "data10" "data11" "data12" "data13" "data14" "data18" "data19" "data20" "data21" "data22" "data23" "data24" "data25" "data26" </param>
+            <param name="outputUids">"data37" </param>
+        </property>
+    </property>
+    <property name="Annotations">
+        <property name="GlMesh">
+            <param name="visible">0</param>
+            <param name="alwaysVisible">0</param>
+            <param name="editable">1</param>
+            <param name="color">1 1 0 1 </param>
+            <param name="lineWidth">1</param>
+            <param name="labelVisible">1</param>
+            <param name="labelDepthTest">1</param>
+            <param name="labelColor">0 1 1 </param>
+            <param name="labelText"></param>
+            <param name="name">kegel_ribs</param>
+            <param name="renderCrossSection">0</param>
+            <param name="crossSectionColor">1 0 0 0.5 </param>
+            <param name="renderMode">0</param>
+            <param name="materialModeFront">0</param>
+            <param name="materialModeBack">0</param>
+            <param name="lightingEnabled">1 1 </param>
+            <param name="ambientFront">1 1 1 </param>
+            <param name="diffuseFront">1 1 1 </param>
+            <param name="specularFront">0.100000001490116 0.100000001490116 0.100000001490116 </param>
+            <param name="shininessFront">50</param>
+            <param name="ambientBack">1 1 1 </param>
+            <param name="diffuseBack">1 1 1 </param>
+            <param name="specularBack">0.100000001490116 0.100000001490116 0.100000001490116 </param>
+            <param name="shininessBack">50</param>
+            <param name="wireframeColor">0 0 1 1 </param>
+            <param name="wireframeWidth">1</param>
+            <param name="wireframeMaterialMode">0</param>
+            <param name="lineColor">1 1 1 1 </param>
+            <param name="projectiveFrontColor">0.800000011920929 0.300000011920929 0 1 </param>
+            <param name="projectiveBackColor">0.100000001490116 0.300000011920929 0.600000023841858 0.5 </param>
+            <param name="projectiveIntersectionTolerance">0</param>
+            <param name="projectiveFadeoutRange">10</param>
+            <param name="drawIn2D">0</param>
+            <param name="drawNormals">0</param>
+            <param name="useFaceNormals">0</param>
+            <param name="referenceDataUid">data36</param>
+        </property>
+        <property name="GlMesh">
+            <param name="visible">0</param>
+            <param name="alwaysVisible">0</param>
+            <param name="editable">1</param>
+            <param name="color">1 1 0 1 </param>
+            <param name="lineWidth">1</param>
+            <param name="labelVisible">1</param>
+            <param name="labelDepthTest">1</param>
+            <param name="labelColor">0 1 1 </param>
+            <param name="labelText"></param>
+            <param name="name">square</param>
+            <param name="renderCrossSection">0</param>
+            <param name="crossSectionColor">1 0 0 0.5 </param>
+            <param name="renderMode">0</param>
+            <param name="materialModeFront">0</param>
+            <param name="materialModeBack">0</param>
+            <param name="lightingEnabled">1 1 </param>
+            <param name="ambientFront">1 1 1 </param>
+            <param name="diffuseFront">1 1 1 </param>
+            <param name="specularFront">0.100000001490116 0.100000001490116 0.100000001490116 </param>
+            <param name="shininessFront">50</param>
+            <param name="ambientBack">1 1 1 </param>
+            <param name="diffuseBack">1 1 1 </param>
+            <param name="specularBack">0.100000001490116 0.100000001490116 0.100000001490116 </param>
+            <param name="shininessBack">50</param>
+            <param name="wireframeColor">0 0 1 1 </param>
+            <param name="wireframeWidth">1</param>
+            <param name="wireframeMaterialMode">0</param>
+            <param name="lineColor">1 1 1 1 </param>
+            <param name="projectiveFrontColor">0.800000011920929 0.300000011920929 0 1 </param>
+            <param name="projectiveBackColor">0.100000001490116 0.300000011920929 0.600000023841858 0.5 </param>
+            <param name="projectiveIntersectionTolerance">0</param>
+            <param name="projectiveFadeoutRange">10</param>
+            <param name="drawIn2D">0</param>
+            <param name="drawNormals">0</param>
+            <param name="useFaceNormals">0</param>
+            <param name="referenceDataUid">data16</param>
+        </property>
+        <property name="GlMesh">
+            <param name="visible">0</param>
+            <param name="alwaysVisible">0</param>
+            <param name="editable">1</param>
+            <param name="color">1 1 0 1 </param>
+            <param name="lineWidth">1</param>
+            <param name="labelVisible">1</param>
+            <param name="labelDepthTest">1</param>
+            <param name="labelColor">0 1 1 </param>
+            <param name="labelText"></param>
+            <param name="name">kegel_grid</param>
+            <param name="renderCrossSection">0</param>
+            <param name="crossSectionColor">1 0 0 0.5 </param>
+            <param name="renderMode">0</param>
+            <param name="materialModeFront">0</param>
+            <param name="materialModeBack">0</param>
+            <param name="lightingEnabled">1 1 </param>
+            <param name="ambientFront">1 1 1 </param>
+            <param name="diffuseFront">1 1 1 </param>
+            <param name="specularFront">0.100000001490116 0.100000001490116 0.100000001490116 </param>
+            <param name="shininessFront">50</param>
+            <param name="ambientBack">1 1 1 </param>
+            <param name="diffuseBack">1 1 1 </param>
+            <param name="specularBack">0.100000001490116 0.100000001490116 0.100000001490116 </param>
+            <param name="shininessBack">50</param>
+            <param name="wireframeColor">0 0 1 1 </param>
+            <param name="wireframeWidth">1</param>
+            <param name="wireframeMaterialMode">0</param>
+            <param name="lineColor">1 1 1 1 </param>
+            <param name="projectiveFrontColor">0.800000011920929 0.300000011920929 0 1 </param>
+            <param name="projectiveBackColor">0.100000001490116 0.300000011920929 0.600000023841858 0.5 </param>
+            <param name="projectiveIntersectionTolerance">0</param>
+            <param name="projectiveFadeoutRange">10</param>
+            <param name="drawIn2D">0</param>
+            <param name="drawNormals">0</param>
+            <param name="useFaceNormals">0</param>
+            <param name="referenceDataUid">data17</param>
+        </property>
+    </property>
+    <property name="Display">
+        <param name="layoutMode">0</param>
+        <param name="focusedView">0</param>
+        <property name="Views">
+            <property name="0">
+                <param name="viewOptionsSource">0</param>
+                <param name="interpolation">1</param>
+                <param name="flip">0</param>
+                <param name="blendingMode">1</param>
+                <param name="zoom">1.1</param>
+                <param name="showZoom">1</param>
+                <param name="showIn3D">1</param>
+                <param name="viewMatrix">1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 </param>
+                <param name="sliceMatrix">1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 </param>
+                <param name="showOrientationMarkers">0</param>
+                <param name="displayOptionsSource">1</param>
+                <param name="sliceThickness">0</param>
+            </property>
+            <property name="1">
+                <param name="viewOptionsSource">0</param>
+                <param name="interpolation">1</param>
+                <param name="flip">1</param>
+                <param name="blendingMode">1</param>
+                <param name="zoom">1</param>
+                <param name="showZoom">1</param>
+                <param name="showIn3D">1</param>
+                <param name="viewMatrix">0 0 -1 -55.205 0 1 0 55.2035714285714 1 0 0 30 0 0 0 1 </param>
+                <param name="sliceMatrix">0 0 -1 -55.205 0 1 0 55.2035714285714 1 0 0 30 0 0 0 1 </param>
+                <param name="showOrientationMarkers">0</param>
+                <param name="displayOptionsSource">1</param>
+                <param name="sliceThickness">0</param>
+            </property>
+            <property name="2">
+                <param name="viewOptionsSource">0</param>
+                <param name="interpolation">1</param>
+                <param name="flip">1</param>
+                <param name="blendingMode">1</param>
+                <param name="zoom">1</param>
+                <param name="showZoom">1</param>
+                <param name="showIn3D">1</param>
+                <param name="viewMatrix">0 1 0 -55 1 0 0 55.2035714285714 0 0 -1 29.695 0 0 0 1 </param>
+                <param name="sliceMatrix">0 1 0 -55 1 0 0 55.2035714285714 0 0 -1 29.695 0 0 0 1 </param>
+                <param name="showOrientationMarkers">0</param>
+                <param name="displayOptionsSource">1</param>
+                <param name="sliceThickness">0</param>
+            </property>
+            <property name="3">
+                <param name="viewOptionsSource">0</param>
+                <param name="interpolation">1</param>
+                <param name="flip">1</param>
+                <param name="blendingMode">1</param>
+                <param name="zoom">1</param>
+                <param name="showZoom">1</param>
+                <param name="showIn3D">1</param>
+                <param name="viewMatrix">0 1 0 -55 0 0 1 55.2835714285714 1 0 0 30 0 0 0 1 </param>
+                <param name="sliceMatrix">0 1 0 -55 0 0 1 55.2835714285714 1 0 0 30 0 0 0 1 </param>
+                <param name="showOrientationMarkers">0</param>
+                <param name="displayOptionsSource">1</param>
+                <param name="sliceThickness">0</param>
+            </property>
+            <property name="4">
+                <param name="viewOptionsSource">0</param>
+                <param name="renderMode">4</param>
+                <param name="sceneCenter">1.98078918457031 1.33514404296875e-05 50.4839630126953 </param>
+                <param name="displayOptionsSource">1</param>
+                <property name="Camera">
+                    <param name="poseMatrix">0.713311568381585 0.269872389599366 0.646804065961966 -34.0661559855491 -0.424010590637631 -0.568653784824672 0.704874380320141 -34.7449689602531 0.558033713533627 -0.777046823773512 -0.291198571808596 -280.309207481225 0 0 0 1 </param>
+                    <param name="mode">0</param>
+                    <param name="principalPoint">0.5 0.5 </param>
+                    <param name="focalLength">1.37373870972731 1.37373870972731 </param>
+                    <param name="frustumHeight">100</param>
+                </property>
+                <property name="VolumeRenderer">
+                    <param name="mode">4</param>
+                    <param name="showDeformations">0</param>
+                    <param name="ambientAttenuationDistance">0</param>
+                </property>
+            </property>
+        </property>
+        <property name="VisibleData">
+            <property name="0">
+                <param name="visible">"data26" "data0" "data1" "data2" "data3" "data4" "data5" "data6" "data8" "data9" "data10" "data11" "data12" "data13" "data14" "data18" "data19" "data20" "data21" "data22" "data23" "data24" "data25" </param>
+            </property>
+            <property name="1">
+                <param name="visible">"data37" </param>
+            </property>
+            <property name="2">
+                <param name="visible">"data37" </param>
+            </property>
+            <property name="3">
+                <param name="visible">"data37" </param>
+            </property>
+            <property name="4">
+                <param name="visible">"data37" </param>
+            </property>
+        </property>
+    </property>
+</propertyfile>

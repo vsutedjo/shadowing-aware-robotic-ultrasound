@@ -1,0 +1,1174 @@
+<!--ImFusion Suite, 13.08.2021-->
+<propertyfile version="1.1">
+    <param name="workspaceVersion">16</param>
+    <property name="Datasets">
+        <property name="Data">
+            <param name="topDown">1</param>
+            <param name="name">simulated_sweep0</param>
+            <param name="blockId">1</param>
+            <param name="original">1</param>
+            <param name="linkMPR">0</param>
+            <param name="hide3D">0</param>
+            <param name="uid">data3</param>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="Components">
+                <property name="DisplayOptions2d">
+                    <param name="gamma">1</param>
+                    <param name="invert">0</param>
+                    <param name="useMask">1</param>
+                    <param name="wlInOriginalValues">1</param>
+                    <property name="TransferFunction">
+                        <param name="window">255</param>
+                        <param name="level">127.5</param>
+                        <param name="presetName"></param>
+                        <param name="textureSize">256</param>
+                        <param name="mode">0</param>
+                    </property>
+                </property>
+            </property>
+        </property>
+        <property name="Data">
+            <param name="topDown">1</param>
+            <param name="name">simulated_sweep1</param>
+            <param name="blockId">1</param>
+            <param name="original">1</param>
+            <param name="linkMPR">0</param>
+            <param name="uid">data4</param>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="Components">
+                <property name="DisplayOptions2d">
+                    <param name="gamma">1</param>
+                    <param name="invert">0</param>
+                    <param name="useMask">1</param>
+                    <param name="wlInOriginalValues">1</param>
+                    <property name="TransferFunction">
+                        <param name="window">255</param>
+                        <param name="level">127.5</param>
+                        <param name="presetName"></param>
+                        <param name="textureSize">256</param>
+                        <param name="mode">0</param>
+                    </property>
+                </property>
+            </property>
+        </property>
+        <property name="Data">
+            <param name="topDown">1</param>
+            <param name="name">simulated_sweep2</param>
+            <param name="blockId">1</param>
+            <param name="original">1</param>
+            <param name="linkMPR">0</param>
+            <param name="uid">data5</param>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="Components">
+                <property name="DisplayOptions2d">
+                    <param name="gamma">1</param>
+                    <param name="invert">0</param>
+                    <param name="useMask">1</param>
+                    <param name="wlInOriginalValues">1</param>
+                    <property name="TransferFunction">
+                        <param name="window">255</param>
+                        <param name="level">127.5</param>
+                        <param name="presetName"></param>
+                        <param name="textureSize">256</param>
+                        <param name="mode">0</param>
+                    </property>
+                </property>
+            </property>
+        </property>
+        <property name="Data">
+            <param name="topDown">1</param>
+            <param name="name">simulated_sweep3</param>
+            <param name="blockId">1</param>
+            <param name="original">1</param>
+            <param name="linkMPR">0</param>
+            <param name="uid">data6</param>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="Components">
+                <property name="DisplayOptions2d">
+                    <param name="gamma">1</param>
+                    <param name="invert">0</param>
+                    <param name="useMask">1</param>
+                    <param name="wlInOriginalValues">1</param>
+                    <property name="TransferFunction">
+                        <param name="window">255</param>
+                        <param name="level">127.5</param>
+                        <param name="presetName"></param>
+                        <param name="textureSize">256</param>
+                        <param name="mode">0</param>
+                    </property>
+                </property>
+            </property>
+        </property>
+        <property name="Data">
+            <param name="topDown">1</param>
+            <param name="name">simulated_sweep4</param>
+            <param name="blockId">1</param>
+            <param name="original">1</param>
+            <param name="linkMPR">0</param>
+            <param name="uid">data7</param>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="Components">
+                <property name="DisplayOptions2d">
+                    <param name="gamma">1</param>
+                    <param name="invert">0</param>
+                    <param name="useMask">1</param>
+                    <param name="wlInOriginalValues">1</param>
+                    <property name="TransferFunction">
+                        <param name="window">255</param>
+                        <param name="level">127.5</param>
+                        <param name="presetName"></param>
+                        <param name="textureSize">256</param>
+                        <param name="mode">0</param>
+                    </property>
+                </property>
+            </property>
+        </property>
+        <property name="Data">
+            <param name="topDown">1</param>
+            <param name="name">simulated_sweep5</param>
+            <param name="blockId">1</param>
+            <param name="original">1</param>
+            <param name="linkMPR">0</param>
+            <param name="uid">data8</param>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="Components">
+                <property name="DisplayOptions2d">
+                    <param name="gamma">1</param>
+                    <param name="invert">0</param>
+                    <param name="useMask">1</param>
+                    <param name="wlInOriginalValues">1</param>
+                    <property name="TransferFunction">
+                        <param name="window">255</param>
+                        <param name="level">127.5</param>
+                        <param name="presetName"></param>
+                        <param name="textureSize">256</param>
+                        <param name="mode">0</param>
+                    </property>
+                </property>
+            </property>
+        </property>
+        <property name="Data">
+            <param name="topDown">1</param>
+            <param name="name">simulated_sweep6</param>
+            <param name="blockId">1</param>
+            <param name="original">1</param>
+            <param name="linkMPR">0</param>
+            <param name="uid">data9</param>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="Components">
+                <property name="DisplayOptions2d">
+                    <param name="gamma">1</param>
+                    <param name="invert">0</param>
+                    <param name="useMask">1</param>
+                    <param name="wlInOriginalValues">1</param>
+                    <property name="TransferFunction">
+                        <param name="window">255</param>
+                        <param name="level">127.5</param>
+                        <param name="presetName"></param>
+                        <param name="textureSize">256</param>
+                        <param name="mode">0</param>
+                    </property>
+                </property>
+            </property>
+        </property>
+        <property name="Data">
+            <param name="topDown">1</param>
+            <param name="name">simulated_sweep7</param>
+            <param name="blockId">1</param>
+            <param name="original">1</param>
+            <param name="linkMPR">0</param>
+            <param name="uid">data10</param>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="Components">
+                <property name="DisplayOptions2d">
+                    <param name="gamma">1</param>
+                    <param name="invert">0</param>
+                    <param name="useMask">1</param>
+                    <param name="wlInOriginalValues">1</param>
+                    <property name="TransferFunction">
+                        <param name="window">255</param>
+                        <param name="level">127.5</param>
+                        <param name="presetName"></param>
+                        <param name="textureSize">256</param>
+                        <param name="mode">0</param>
+                    </property>
+                </property>
+            </property>
+        </property>
+        <property name="Data">
+            <param name="topDown">1</param>
+            <param name="name">simulated_sweep8</param>
+            <param name="blockId">1</param>
+            <param name="original">1</param>
+            <param name="linkMPR">0</param>
+            <param name="uid">data11</param>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="Components">
+                <property name="DisplayOptions2d">
+                    <param name="gamma">1</param>
+                    <param name="invert">0</param>
+                    <param name="useMask">1</param>
+                    <param name="wlInOriginalValues">1</param>
+                    <property name="TransferFunction">
+                        <param name="window">255</param>
+                        <param name="level">127.5</param>
+                        <param name="presetName"></param>
+                        <param name="textureSize">256</param>
+                        <param name="mode">0</param>
+                    </property>
+                </property>
+            </property>
+        </property>
+        <property name="Data">
+            <param name="topDown">1</param>
+            <param name="name">us_modified0</param>
+            <param name="blockId">1</param>
+            <param name="original">1</param>
+            <param name="linkMPR">0</param>
+            <param name="uid">data13</param>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="Components">
+                <property name="DisplayOptions2d">
+                    <param name="gamma">1</param>
+                    <param name="invert">0</param>
+                    <param name="useMask">1</param>
+                    <param name="wlInOriginalValues">1</param>
+                    <property name="TransferFunction">
+                        <param name="window">255</param>
+                        <param name="level">127.5</param>
+                        <param name="presetName"></param>
+                        <param name="textureSize">256</param>
+                        <param name="mode">0</param>
+                    </property>
+                </property>
+            </property>
+        </property>
+        <property name="Data">
+            <param name="topDown">1</param>
+            <param name="name">us_modified4</param>
+            <param name="blockId">1</param>
+            <param name="original">1</param>
+            <param name="linkMPR">0</param>
+            <param name="uid">data14</param>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="MetaData">
+                <param name="topDown">1</param>
+            </property>
+            <property name="Components">
+                <property name="DisplayOptions2d">
+                    <param name="gamma">1</param>
+                    <param name="invert">0</param>
+                    <param name="useMask">1</param>
+                    <param name="wlInOriginalValues">1</param>
+                    <property name="TransferFunction">
+                        <param name="window">255</param>
+                        <param name="level">127.5</param>
+                        <param name="presetName"></param>
+                        <param name="textureSize">256</param>
+                        <param name="mode">0</param>
+                    </property>
+                </property>
+            </property>
+        </property>
+        <property name="Data">
+            <param name="name">vol_slice0</param>
+            <param name="blockId">1</param>
+            <param name="original">1</param>
+            <param name="topDown">1</param>
+            <param name="uid">data15</param>
+            <param name="transformation">1 0 0 90 -0 -0 -1 30 0 1 0 81 0 0 0 1 </param>
+            <property name="Components">
+                <property name="DisplayOptions2d">
+                    <param name="gamma">1</param>
+                    <param name="invert">0</param>
+                    <param name="useMask">1</param>
+                    <param name="wlInOriginalValues">1</param>
+                    <property name="TransferFunction">
+                        <param name="window">255</param>
+                        <param name="level">127.5</param>
+                        <param name="presetName"></param>
+                        <param name="textureSize">256</param>
+                        <param name="mode">0</param>
+                    </property>
+                </property>
+                <property name="DisplayOptions3d">
+                    <param name="alpha">1</param>
+                    <param name="invert">0</param>
+                    <param name="useMask">1</param>
+                    <param name="wlInOriginalValues">1</param>
+                    <property name="TransferFunction">
+                        <param name="window">2774</param>
+                        <param name="level">363</param>
+                        <param name="presetName">CT Bone</param>
+                        <param name="textureSize">256</param>
+                        <param name="mode">0</param>
+                        <property name="Tissues">
+                            <property name="Tissue">
+                                <property name="KeyPoint">
+                                    <param name="position">0.4</param>
+                                    <param name="color">0.752941176470588 0.250980392156863 0.125490196078431 0 </param>
+                                </property>
+                                <property name="KeyPoint">
+                                    <param name="position">0.5</param>
+                                    <param name="color">0.975 0.9 0.82 0.6 </param>
+                                </property>
+                                <property name="KeyPoint">
+                                    <param name="position">0.6</param>
+                                    <param name="color">1 1 1 0.6 </param>
+                                </property>
+                                <property name="KeyPoint">
+                                    <param name="position">1</param>
+                                    <param name="color">0.9 0.9 0.9 0.6 </param>
+                                </property>
+                            </property>
+                        </property>
+                    </property>
+                </property>
+                <property name="LabelDataComponent">
+                    <param name="sourceModality">0</param>
+                    <property name="LabelConfig">
+                        <param name="pixelValue">0</param>
+                        <param name="name">Background</param>
+                        <param name="color">0 0 0 1 </param>
+                        <param name="isVisible2d">0</param>
+                        <param name="isVisible3d">0</param>
+                        <param name="segmentationAlgorithmType">0</param>
+                        <param name="segmentationAlgorithmName"></param>
+                    </property>
+                    <property name="LabelConfig">
+                        <param name="pixelValue">1</param>
+                        <param name="name">Label 1</param>
+                        <param name="color">0.898 0.223 0.207 1 </param>
+                        <param name="isVisible2d">1</param>
+                        <param name="isVisible3d">1</param>
+                        <param name="segmentationAlgorithmType">0</param>
+                        <param name="segmentationAlgorithmName"></param>
+                    </property>
+                    <property name="LabelConfig">
+                        <param name="pixelValue">2</param>
+                        <param name="name">Label 2</param>
+                        <param name="color">0 0.6 0.756 1 </param>
+                        <param name="isVisible2d">1</param>
+                        <param name="isVisible3d">1</param>
+                        <param name="segmentationAlgorithmType">0</param>
+                        <param name="segmentationAlgorithmName"></param>
+                    </property>
+                </property>
+            </property>
+        </property>
+        <property name="Data">
+            <param name="name">vol_slice4</param>
+            <param name="blockId">1</param>
+            <param name="original">1</param>
+            <param name="topDown">1</param>
+            <param name="uid">data16</param>
+            <param name="transformation">1 0 0 90 -0 -0 -1 30 0 1 0 81 0 0 0 1 </param>
+            <property name="Components">
+                <property name="DisplayOptions2d">
+                    <param name="gamma">1</param>
+                    <param name="invert">0</param>
+                    <param name="useMask">1</param>
+                    <param name="wlInOriginalValues">1</param>
+                    <property name="TransferFunction">
+                        <param name="window">255</param>
+                        <param name="level">127.5</param>
+                        <param name="presetName"></param>
+                        <param name="textureSize">256</param>
+                        <param name="mode">0</param>
+                    </property>
+                </property>
+                <property name="DisplayOptions3d">
+                    <param name="alpha">1</param>
+                    <param name="invert">0</param>
+                    <param name="useMask">1</param>
+                    <param name="wlInOriginalValues">1</param>
+                    <property name="TransferFunction">
+                        <param name="window">2774</param>
+                        <param name="level">363</param>
+                        <param name="presetName">CT Bone</param>
+                        <param name="textureSize">256</param>
+                        <param name="mode">0</param>
+                        <property name="Tissues">
+                            <property name="Tissue">
+                                <property name="KeyPoint">
+                                    <param name="position">0.4</param>
+                                    <param name="color">0.752941176470588 0.250980392156863 0.125490196078431 0 </param>
+                                </property>
+                                <property name="KeyPoint">
+                                    <param name="position">0.5</param>
+                                    <param name="color">0.975 0.9 0.82 0.6 </param>
+                                </property>
+                                <property name="KeyPoint">
+                                    <param name="position">0.6</param>
+                                    <param name="color">1 1 1 0.6 </param>
+                                </property>
+                                <property name="KeyPoint">
+                                    <param name="position">1</param>
+                                    <param name="color">0.9 0.9 0.9 0.6 </param>
+                                </property>
+                            </property>
+                        </property>
+                    </property>
+                </property>
+                <property name="LabelDataComponent">
+                    <param name="sourceModality">0</param>
+                    <property name="LabelConfig">
+                        <param name="pixelValue">0</param>
+                        <param name="name">Background</param>
+                        <param name="color">0 0 0 1 </param>
+                        <param name="isVisible2d">0</param>
+                        <param name="isVisible3d">0</param>
+                        <param name="segmentationAlgorithmType">0</param>
+                        <param name="segmentationAlgorithmName"></param>
+                    </property>
+                    <property name="LabelConfig">
+                        <param name="pixelValue">1</param>
+                        <param name="name">Label 1</param>
+                        <param name="color">0.898 0.223 0.207 1 </param>
+                        <param name="isVisible2d">1</param>
+                        <param name="isVisible3d">1</param>
+                        <param name="segmentationAlgorithmType">0</param>
+                        <param name="segmentationAlgorithmName"></param>
+                    </property>
+                    <property name="LabelConfig">
+                        <param name="pixelValue">2</param>
+                        <param name="name">Label 2</param>
+                        <param name="color">0 0.6 0.756 1 </param>
+                        <param name="isVisible2d">1</param>
+                        <param name="isVisible3d">1</param>
+                        <param name="segmentationAlgorithmType">0</param>
+                        <param name="segmentationAlgorithmName"></param>
+                    </property>
+                </property>
+            </property>
+        </property>
+        <property name="Data">
+            <param name="name">data_modified</param>
+            <param name="blockId">1</param>
+            <param name="original">1</param>
+            <param name="topDown">1</param>
+            <param name="uid">data17</param>
+            <param name="transformation">1 0 0 0 0 1 0 0 0 0 1 -31.5 0 0 0 1 </param>
+            <property name="Components">
+                <property name="DisplayOptions2d">
+                    <param name="gamma">1</param>
+                    <param name="invert">0</param>
+                    <param name="useMask">1</param>
+                    <param name="wlInOriginalValues">1</param>
+                    <property name="TransferFunction">
+                        <param name="window">255</param>
+                        <param name="level">127.5</param>
+                        <param name="presetName"></param>
+                        <param name="textureSize">256</param>
+                        <param name="mode">0</param>
+                    </property>
+                </property>
+                <property name="DisplayOptions3d">
+                    <param name="alpha">1</param>
+                    <param name="invert">0</param>
+                    <param name="useMask">1</param>
+                    <param name="wlInOriginalValues">1</param>
+                    <property name="TransferFunction">
+                        <param name="window">2774</param>
+                        <param name="level">363</param>
+                        <param name="presetName">CT Bone</param>
+                        <param name="textureSize">256</param>
+                        <param name="mode">0</param>
+                        <property name="Tissues">
+                            <property name="Tissue">
+                                <property name="KeyPoint">
+                                    <param name="position">0.4</param>
+                                    <param name="color">0.752941176470588 0.250980392156863 0.125490196078431 0 </param>
+                                </property>
+                                <property name="KeyPoint">
+                                    <param name="position">0.5</param>
+                                    <param name="color">0.975 0.9 0.82 0.6 </param>
+                                </property>
+                                <property name="KeyPoint">
+                                    <param name="position">0.6</param>
+                                    <param name="color">1 1 1 0.6 </param>
+                                </property>
+                                <property name="KeyPoint">
+                                    <param name="position">1</param>
+                                    <param name="color">0.9 0.9 0.9 0.6 </param>
+                                </property>
+                            </property>
+                        </property>
+                    </property>
+                </property>
+                <property name="LabelDataComponent">
+                    <param name="sourceModality">0</param>
+                    <property name="LabelConfig">
+                        <param name="pixelValue">0</param>
+                        <param name="name">Background</param>
+                        <param name="color">0 0 0 1 </param>
+                        <param name="isVisible2d">0</param>
+                        <param name="isVisible3d">0</param>
+                        <param name="segmentationAlgorithmType">0</param>
+                        <param name="segmentationAlgorithmName"></param>
+                    </property>
+                    <property name="LabelConfig">
+                        <param name="pixelValue">1</param>
+                        <param name="name">Label 1</param>
+                        <param name="color">0.898 0.223 0.207 1 </param>
+                        <param name="isVisible2d">1</param>
+                        <param name="isVisible3d">1</param>
+                        <param name="segmentationAlgorithmType">0</param>
+                        <param name="segmentationAlgorithmName"></param>
+                    </property>
+                    <property name="LabelConfig">
+                        <param name="pixelValue">2</param>
+                        <param name="name">Label 2</param>
+                        <param name="color">0 0.6 0.756 1 </param>
+                        <param name="isVisible2d">1</param>
+                        <param name="isVisible3d">1</param>
+                        <param name="segmentationAlgorithmType">0</param>
+                        <param name="segmentationAlgorithmName"></param>
+                    </property>
+                    <property name="LabelConfig">
+                        <param name="pixelValue">3</param>
+                        <param name="name">Label 3</param>
+                        <param name="color">0.992 0.847 0.207 1 </param>
+                        <param name="isVisible2d">1</param>
+                        <param name="isVisible3d">1</param>
+                        <param name="segmentationAlgorithmType">0</param>
+                        <param name="segmentationAlgorithmName"></param>
+                    </property>
+                    <property name="LabelConfig">
+                        <param name="pixelValue">4</param>
+                        <param name="name">Label 4</param>
+                        <param name="color">0.262 0.627 0.278 1 </param>
+                        <param name="isVisible2d">1</param>
+                        <param name="isVisible3d">1</param>
+                        <param name="segmentationAlgorithmType">0</param>
+                        <param name="segmentationAlgorithmName"></param>
+                    </property>
+                    <property name="LabelConfig">
+                        <param name="pixelValue">5</param>
+                        <param name="name">Label 5</param>
+                        <param name="color">0.611 0.152 0.69 1 </param>
+                        <param name="isVisible2d">1</param>
+                        <param name="isVisible3d">1</param>
+                        <param name="segmentationAlgorithmType">0</param>
+                        <param name="segmentationAlgorithmName"></param>
+                    </property>
+                    <property name="LabelConfig">
+                        <param name="pixelValue">6</param>
+                        <param name="name">Label 6</param>
+                        <param name="color">0.984 0.549 0 1 </param>
+                        <param name="isVisible2d">1</param>
+                        <param name="isVisible3d">1</param>
+                        <param name="segmentationAlgorithmType">0</param>
+                        <param name="segmentationAlgorithmName"></param>
+                    </property>
+                    <property name="LabelConfig">
+                        <param name="pixelValue">7</param>
+                        <param name="name">Label 7</param>
+                        <param name="color">0.956 0.56 0.694 1 </param>
+                        <param name="isVisible2d">1</param>
+                        <param name="isVisible3d">1</param>
+                        <param name="segmentationAlgorithmType">0</param>
+                        <param name="segmentationAlgorithmName"></param>
+                    </property>
+                    <property name="LabelConfig">
+                        <param name="pixelValue">8</param>
+                        <param name="name">Label 8</param>
+                        <param name="color">0.117 0.533 0.898 1 </param>
+                        <param name="isVisible2d">1</param>
+                        <param name="isVisible3d">1</param>
+                        <param name="segmentationAlgorithmType">0</param>
+                        <param name="segmentationAlgorithmName"></param>
+                    </property>
+                    <property name="LabelConfig">
+                        <param name="pixelValue">9</param>
+                        <param name="name">Label 9</param>
+                        <param name="color">0.901 0.933 0.611 1 </param>
+                        <param name="isVisible2d">1</param>
+                        <param name="isVisible3d">1</param>
+                        <param name="segmentationAlgorithmType">0</param>
+                        <param name="segmentationAlgorithmName"></param>
+                    </property>
+                    <property name="LabelConfig">
+                        <param name="pixelValue">10</param>
+                        <param name="name">Label 10</param>
+                        <param name="color">0.247 0.317 0.709 1 </param>
+                        <param name="isVisible2d">1</param>
+                        <param name="isVisible3d">1</param>
+                        <param name="segmentationAlgorithmType">0</param>
+                        <param name="segmentationAlgorithmName"></param>
+                    </property>
+                    <property name="LabelConfig">
+                        <param name="pixelValue">11</param>
+                        <param name="name">Label 11</param>
+                        <param name="color">1 0.835 0.309 1 </param>
+                        <param name="isVisible2d">1</param>
+                        <param name="isVisible3d">1</param>
+                        <param name="segmentationAlgorithmType">0</param>
+                        <param name="segmentationAlgorithmName"></param>
+                    </property>
+                    <property name="LabelConfig">
+                        <param name="pixelValue">12</param>
+                        <param name="name">Label 12</param>
+                        <param name="color">0 0.5 0.533 1 </param>
+                        <param name="isVisible2d">1</param>
+                        <param name="isVisible3d">1</param>
+                        <param name="segmentationAlgorithmType">0</param>
+                        <param name="segmentationAlgorithmName"></param>
+                    </property>
+                    <property name="LabelConfig">
+                        <param name="pixelValue">13</param>
+                        <param name="name">Label 13</param>
+                        <param name="color">0.9 0.63 0.09 1 </param>
+                        <param name="isVisible2d">1</param>
+                        <param name="isVisible3d">1</param>
+                        <param name="segmentationAlgorithmType">0</param>
+                        <param name="segmentationAlgorithmName"></param>
+                    </property>
+                    <property name="LabelConfig">
+                        <param name="pixelValue">14</param>
+                        <param name="name">Label 14</param>
+                        <param name="color">0.63 0.9 0.09 1 </param>
+                        <param name="isVisible2d">1</param>
+                        <param name="isVisible3d">1</param>
+                        <param name="segmentationAlgorithmType">0</param>
+                        <param name="segmentationAlgorithmName"></param>
+                    </property>
+                    <property name="LabelConfig">
+                        <param name="pixelValue">15</param>
+                        <param name="name">Label 15</param>
+                        <param name="color">0.09 0.9 0.09 1 </param>
+                        <param name="isVisible2d">1</param>
+                        <param name="isVisible3d">1</param>
+                        <param name="segmentationAlgorithmType">0</param>
+                        <param name="segmentationAlgorithmName"></param>
+                    </property>
+                    <property name="LabelConfig">
+                        <param name="pixelValue">16</param>
+                        <param name="name">Label 16</param>
+                        <param name="color">0.09 0.9 0.63 1 </param>
+                        <param name="isVisible2d">1</param>
+                        <param name="isVisible3d">1</param>
+                        <param name="segmentationAlgorithmType">0</param>
+                        <param name="segmentationAlgorithmName"></param>
+                    </property>
+                    <property name="LabelConfig">
+                        <param name="pixelValue">17</param>
+                        <param name="name">Label 17</param>
+                        <param name="color">0.09 0.63 0.9 1 </param>
+                        <param name="isVisible2d">1</param>
+                        <param name="isVisible3d">1</param>
+                        <param name="segmentationAlgorithmType">0</param>
+                        <param name="segmentationAlgorithmName"></param>
+                    </property>
+                    <property name="LabelConfig">
+                        <param name="pixelValue">18</param>
+                        <param name="name">Label 18</param>
+                        <param name="color">0.09 0.09 0.9 1 </param>
+                        <param name="isVisible2d">1</param>
+                        <param name="isVisible3d">1</param>
+                        <param name="segmentationAlgorithmType">0</param>
+                        <param name="segmentationAlgorithmName"></param>
+                    </property>
+                    <property name="LabelConfig">
+                        <param name="pixelValue">19</param>
+                        <param name="name">Label 19</param>
+                        <param name="color">0.630000000000001 0.09 0.9 1 </param>
+                        <param name="isVisible2d">1</param>
+                        <param name="isVisible3d">1</param>
+                        <param name="segmentationAlgorithmType">0</param>
+                        <param name="segmentationAlgorithmName"></param>
+                    </property>
+                    <property name="LabelConfig">
+                        <param name="pixelValue">20</param>
+                        <param name="name">Label 20</param>
+                        <param name="color">0.9 0.09 0.63 1 </param>
+                        <param name="isVisible2d">1</param>
+                        <param name="isVisible3d">1</param>
+                        <param name="segmentationAlgorithmType">0</param>
+                        <param name="segmentationAlgorithmName"></param>
+                    </property>
+                    <property name="LabelConfig">
+                        <param name="pixelValue">21</param>
+                        <param name="name">Label 21</param>
+                        <param name="color">0.9 0.54 0.54 1 </param>
+                        <param name="isVisible2d">1</param>
+                        <param name="isVisible3d">1</param>
+                        <param name="segmentationAlgorithmType">0</param>
+                        <param name="segmentationAlgorithmName"></param>
+                    </property>
+                    <property name="LabelConfig">
+                        <param name="pixelValue">22</param>
+                        <param name="name">Label 22</param>
+                        <param name="color">0.9 0.78 0.54 1 </param>
+                        <param name="isVisible2d">1</param>
+                        <param name="isVisible3d">1</param>
+                        <param name="segmentationAlgorithmType">0</param>
+                        <param name="segmentationAlgorithmName"></param>
+                    </property>
+                    <property name="LabelConfig">
+                        <param name="pixelValue">23</param>
+                        <param name="name">Label 23</param>
+                        <param name="color">0.78 0.9 0.54 1 </param>
+                        <param name="isVisible2d">1</param>
+                        <param name="isVisible3d">1</param>
+                        <param name="segmentationAlgorithmType">0</param>
+                        <param name="segmentationAlgorithmName"></param>
+                    </property>
+                    <property name="LabelConfig">
+                        <param name="pixelValue">24</param>
+                        <param name="name">Label 24</param>
+                        <param name="color">0.54 0.9 0.54 1 </param>
+                        <param name="isVisible2d">1</param>
+                        <param name="isVisible3d">1</param>
+                        <param name="segmentationAlgorithmType">0</param>
+                        <param name="segmentationAlgorithmName"></param>
+                    </property>
+                    <property name="LabelConfig">
+                        <param name="pixelValue">25</param>
+                        <param name="name">Label 25</param>
+                        <param name="color">0.54 0.9 0.78 1 </param>
+                        <param name="isVisible2d">1</param>
+                        <param name="isVisible3d">1</param>
+                        <param name="segmentationAlgorithmType">0</param>
+                        <param name="segmentationAlgorithmName"></param>
+                    </property>
+                    <property name="LabelConfig">
+                        <param name="pixelValue">26</param>
+                        <param name="name">Label 26</param>
+                        <param name="color">0.54 0.779999999999999 0.9 1 </param>
+                        <param name="isVisible2d">1</param>
+                        <param name="isVisible3d">1</param>
+                        <param name="segmentationAlgorithmType">0</param>
+                        <param name="segmentationAlgorithmName"></param>
+                    </property>
+                </property>
+            </property>
+        </property>
+    </property>
+    <property name="Interface">
+        <param name="outputUids">"data3" "data4" "data5" "data6" "data7" "data8" "data9" "data10" "data11" "data13" "data14" "data15" "data16" "data17" </param>
+        <param name="inputUids"></param>
+    </property>
+    <property name="Algorithms">
+        <property name="ImFusionFile">
+            <param name="location">test_results/data_modified.imf</param>
+            <param name="compressionMode">0</param>
+            <param name="passes">1</param>
+            <param name="dx">3</param>
+            <param name="dy">3</param>
+            <param name="ignoredDataComponentIds"></param>
+            <param name="blockId">-1</param>
+            <param name="execute">1</param>
+            <param name="inputUids"></param>
+            <param name="outputUids">"data0" </param>
+        </property>
+        <property name="ImFusionFile">
+            <param name="location">test_results/vol_slice.imf</param>
+            <param name="compressionMode">0</param>
+            <param name="passes">1</param>
+            <param name="dx">3</param>
+            <param name="dy">3</param>
+            <param name="ignoredDataComponentIds"></param>
+            <param name="blockId">-1</param>
+            <param name="execute">1</param>
+            <param name="inputUids"></param>
+            <param name="outputUids">"data1" </param>
+        </property>
+        <property name="Delete Data">
+            <param name="execute">1</param>
+            <param name="inputUids">"data2" </param>
+            <param name="outputUids"></param>
+        </property>
+        <property name="ImFusionFile">
+            <param name="location">test_results/vol_slice.imf</param>
+            <param name="compressionMode">0</param>
+            <param name="passes">1</param>
+            <param name="dx">3</param>
+            <param name="dy">3</param>
+            <param name="ignoredDataComponentIds"></param>
+            <param name="blockId">-1</param>
+            <param name="execute">1</param>
+            <param name="inputUids"></param>
+            <param name="outputUids">"data2" </param>
+        </property>
+        <property name="Delete Data">
+            <param name="execute">1</param>
+            <param name="inputUids">"data4" </param>
+            <param name="outputUids"></param>
+        </property>
+        <property name="ImFusionFile">
+            <param name="location">sweeps/simulated_sweep0.imf</param>
+            <param name="compressionMode">0</param>
+            <param name="passes">1</param>
+            <param name="dx">3</param>
+            <param name="dy">3</param>
+            <param name="ignoredDataComponentIds"></param>
+            <param name="blockId">-1</param>
+            <param name="execute">1</param>
+            <param name="inputUids"></param>
+            <param name="outputUids">"data3" </param>
+        </property>
+        <property name="ImFusionFile">
+            <param name="location">sweeps/simulated_sweep1.imf</param>
+            <param name="compressionMode">0</param>
+            <param name="passes">1</param>
+            <param name="dx">3</param>
+            <param name="dy">3</param>
+            <param name="ignoredDataComponentIds"></param>
+            <param name="blockId">-1</param>
+            <param name="execute">1</param>
+            <param name="inputUids"></param>
+            <param name="outputUids">"data4" </param>
+        </property>
+        <property name="ImFusionFile">
+            <param name="location">sweeps/simulated_sweep2.imf</param>
+            <param name="compressionMode">0</param>
+            <param name="passes">1</param>
+            <param name="dx">3</param>
+            <param name="dy">3</param>
+            <param name="ignoredDataComponentIds"></param>
+            <param name="blockId">-1</param>
+            <param name="execute">1</param>
+            <param name="inputUids"></param>
+            <param name="outputUids">"data5" </param>
+        </property>
+        <property name="ImFusionFile">
+            <param name="location">sweeps/simulated_sweep3.imf</param>
+            <param name="compressionMode">0</param>
+            <param name="passes">1</param>
+            <param name="dx">3</param>
+            <param name="dy">3</param>
+            <param name="ignoredDataComponentIds"></param>
+            <param name="blockId">-1</param>
+            <param name="execute">1</param>
+            <param name="inputUids"></param>
+            <param name="outputUids">"data6" </param>
+        </property>
+        <property name="ImFusionFile">
+            <param name="location">sweeps/simulated_sweep4.imf</param>
+            <param name="compressionMode">0</param>
+            <param name="passes">1</param>
+            <param name="dx">3</param>
+            <param name="dy">3</param>
+            <param name="ignoredDataComponentIds"></param>
+            <param name="blockId">-1</param>
+            <param name="execute">1</param>
+            <param name="inputUids"></param>
+            <param name="outputUids">"data7" </param>
+        </property>
+        <property name="ImFusionFile">
+            <param name="location">sweeps/simulated_sweep5.imf</param>
+            <param name="compressionMode">0</param>
+            <param name="passes">1</param>
+            <param name="dx">3</param>
+            <param name="dy">3</param>
+            <param name="ignoredDataComponentIds"></param>
+            <param name="blockId">-1</param>
+            <param name="execute">1</param>
+            <param name="inputUids"></param>
+            <param name="outputUids">"data8" </param>
+        </property>
+        <property name="ImFusionFile">
+            <param name="location">sweeps/simulated_sweep6.imf</param>
+            <param name="compressionMode">0</param>
+            <param name="passes">1</param>
+            <param name="dx">3</param>
+            <param name="dy">3</param>
+            <param name="ignoredDataComponentIds"></param>
+            <param name="blockId">-1</param>
+            <param name="execute">1</param>
+            <param name="inputUids"></param>
+            <param name="outputUids">"data9" </param>
+        </property>
+        <property name="ImFusionFile">
+            <param name="location">sweeps/simulated_sweep7.imf</param>
+            <param name="compressionMode">0</param>
+            <param name="passes">1</param>
+            <param name="dx">3</param>
+            <param name="dy">3</param>
+            <param name="ignoredDataComponentIds"></param>
+            <param name="blockId">-1</param>
+            <param name="execute">1</param>
+            <param name="inputUids"></param>
+            <param name="outputUids">"data10" </param>
+        </property>
+        <property name="ImFusionFile">
+            <param name="location">sweeps/simulated_sweep8.imf</param>
+            <param name="compressionMode">0</param>
+            <param name="passes">1</param>
+            <param name="dx">3</param>
+            <param name="dy">3</param>
+            <param name="ignoredDataComponentIds"></param>
+            <param name="blockId">-1</param>
+            <param name="execute">1</param>
+            <param name="inputUids"></param>
+            <param name="outputUids">"data11" </param>
+        </property>
+        <property name="ImFusionFile">
+            <param name="location">test_results/vol_slice.imf</param>
+            <param name="compressionMode">0</param>
+            <param name="passes">1</param>
+            <param name="dx">3</param>
+            <param name="dy">3</param>
+            <param name="ignoredDataComponentIds"></param>
+            <param name="blockId">-1</param>
+            <param name="execute">1</param>
+            <param name="inputUids"></param>
+            <param name="outputUids">"data12" </param>
+        </property>
+        <property name="Delete Data">
+            <param name="execute">1</param>
+            <param name="inputUids">"data15" </param>
+            <param name="outputUids"></param>
+        </property>
+        <property name="Delete Data">
+            <param name="execute">1</param>
+            <param name="inputUids">"data0" </param>
+            <param name="outputUids"></param>
+        </property>
+        <property name="ImFusionFile">
+            <param name="location">test_results/us_modified0.imf</param>
+            <param name="compressionMode">0</param>
+            <param name="passes">1</param>
+            <param name="dx">3</param>
+            <param name="dy">3</param>
+            <param name="ignoredDataComponentIds"></param>
+            <param name="blockId">-1</param>
+            <param name="execute">1</param>
+            <param name="inputUids"></param>
+            <param name="outputUids">"data13" </param>
+        </property>
+        <property name="ImFusionFile">
+            <param name="location">test_results/us_modified4.imf</param>
+            <param name="compressionMode">0</param>
+            <param name="passes">1</param>
+            <param name="dx">3</param>
+            <param name="dy">3</param>
+            <param name="ignoredDataComponentIds"></param>
+            <param name="blockId">-1</param>
+            <param name="execute">1</param>
+            <param name="inputUids"></param>
+            <param name="outputUids">"data14" </param>
+        </property>
+        <property name="ImFusionFile">
+            <param name="location">test_results/vol_slice0.imf</param>
+            <param name="compressionMode">0</param>
+            <param name="passes">1</param>
+            <param name="dx">3</param>
+            <param name="dy">3</param>
+            <param name="ignoredDataComponentIds"></param>
+            <param name="blockId">-1</param>
+            <param name="execute">1</param>
+            <param name="inputUids"></param>
+            <param name="outputUids">"data15" </param>
+        </property>
+        <property name="ImFusionFile">
+            <param name="location">test_results/vol_slice4.imf</param>
+            <param name="compressionMode">0</param>
+            <param name="passes">1</param>
+            <param name="dx">3</param>
+            <param name="dy">3</param>
+            <param name="ignoredDataComponentIds"></param>
+            <param name="blockId">-1</param>
+            <param name="execute">1</param>
+            <param name="inputUids"></param>
+            <param name="outputUids">"data16" </param>
+        </property>
+        <property name="Change Selection">
+            <param name="first">0</param>
+            <param name="last">4</param>
+            <param name="skip">0</param>
+            <param name="execute">1</param>
+            <param name="inputUids">"data3" </param>
+            <param name="outputUids"></param>
+        </property>
+        <property name="ImFusionFile">
+            <param name="location">test_results/data_modified.imf</param>
+            <param name="compressionMode">0</param>
+            <param name="passes">1</param>
+            <param name="dx">3</param>
+            <param name="dy">3</param>
+            <param name="ignoredDataComponentIds"></param>
+            <param name="blockId">-1</param>
+            <param name="execute">1</param>
+            <param name="inputUids"></param>
+            <param name="outputUids">"data17" </param>
+        </property>
+    </property>
+    <property name="Display">
+        <param name="layoutMode">0</param>
+        <param name="focusedView">0</param>
+        <property name="Views">
+            <property name="0">
+                <param name="viewOptionsSource">0</param>
+                <param name="interpolation">1</param>
+                <param name="flip">1</param>
+                <param name="blendingMode">1</param>
+                <param name="zoom">1.1</param>
+                <param name="showZoom">1</param>
+                <param name="showIn3D">1</param>
+                <param name="viewMatrix">1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 </param>
+                <param name="sliceMatrix">1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 </param>
+                <param name="showOrientationMarkers">0</param>
+                <param name="displayOptionsSource">1</param>
+                <param name="sliceThickness">0</param>
+            </property>
+            <property name="1">
+                <param name="viewOptionsSource">0</param>
+                <param name="interpolation">1</param>
+                <param name="flip">1</param>
+                <param name="blendingMode">1</param>
+                <param name="zoom">1.66529119494588</param>
+                <param name="showZoom">1</param>
+                <param name="showIn3D">1</param>
+                <param name="viewMatrix">1 0 0 -90 0 1 0 -79.68 0 0 1 31.5 0 0 0 1 </param>
+                <param name="sliceMatrix">1 0 0 -90 0 1 0 -79.68 0 0 1 31.5 0 0 0 1 </param>
+                <param name="showOrientationMarkers">0</param>
+                <param name="displayOptionsSource">1</param>
+                <param name="sliceThickness">0</param>
+            </property>
+            <property name="2">
+                <param name="viewOptionsSource">0</param>
+                <param name="interpolation">1</param>
+                <param name="flip">1</param>
+                <param name="blendingMode">1</param>
+                <param name="zoom">1.66529119494588</param>
+                <param name="showZoom">1</param>
+                <param name="showIn3D">1</param>
+                <param name="viewMatrix">0 0 -1 -90.6666666666666 1 0 0 -79.68 0 -1 0 30 0 0 0 1 </param>
+                <param name="sliceMatrix">0 0 -1 -90.6666666666666 1 0 0 -79.68 0 -1 0 30 0 0 0 1 </param>
+                <param name="showOrientationMarkers">0</param>
+                <param name="displayOptionsSource">1</param>
+                <param name="sliceThickness">0</param>
+            </property>
+            <property name="3">
+                <param name="viewOptionsSource">0</param>
+                <param name="interpolation">1</param>
+                <param name="flip">1</param>
+                <param name="blendingMode">1</param>
+                <param name="zoom">1.66529119494588</param>
+                <param name="showZoom">1</param>
+                <param name="showIn3D">1</param>
+                <param name="viewMatrix">1 0 0 -90 0 0 1 -81.3333333333333 0 -1 0 30 0 0 0 1 </param>
+                <param name="sliceMatrix">1 0 0 -90 0 0 1 -81.3333333333333 0 -1 0 30 0 0 0 1 </param>
+                <param name="showOrientationMarkers">0</param>
+                <param name="displayOptionsSource">1</param>
+                <param name="sliceThickness">0</param>
+            </property>
+            <property name="4">
+                <param name="viewOptionsSource">0</param>
+                <param name="renderMode">4</param>
+                <param name="sceneCenter">-135 -118.2 -50 </param>
+                <param name="displayOptionsSource">1</param>
+                <property name="Camera">
+                    <param name="poseMatrix">-0.882530032144952 0.12212751130261 0.454120703497716 -82.0000473287128 0.0512455501198585 -0.934960728893076 0.351030381905391 -86.0426897937112 0.467455490881371 0.333066519498374 0.8188724306228 -383.383886661138 -0 0 0 1 </param>
+                    <param name="mode">0</param>
+                    <param name="principalPoint">0.5 0.5 </param>
+                    <param name="focalLength">1.37373870972731 1.37373870972731 </param>
+                    <param name="frustumHeight">100</param>
+                </property>
+                <property name="VolumeRenderer">
+                    <param name="mode">4</param>
+                    <param name="showDeformations">0</param>
+                    <param name="ambientAttenuationDistance">0</param>
+                </property>
+            </property>
+        </property>
+        <property name="VisibleData">
+            <property name="0">
+                <param name="visible">"data13" "data3" "data4" "data5" "data6" "data7" "data8" "data9" "data10" "data11" "data14" </param>
+            </property>
+            <property name="1">
+                <param name="visible">"data13" "data3" "data4" "data5" "data6" "data7" "data8" "data9" "data10" "data11" "data14" "data17" </param>
+            </property>
+            <property name="2">
+                <param name="visible">"data13" "data3" "data4" "data5" "data6" "data7" "data8" "data9" "data10" "data11" "data14" "data17" </param>
+            </property>
+            <property name="3">
+                <param name="visible">"data13" "data3" "data4" "data5" "data6" "data7" "data8" "data9" "data10" "data11" "data14" "data17" </param>
+            </property>
+            <property name="4">
+                <param name="visible">"data17" </param>
+            </property>
+        </property>
+    </property>
+</propertyfile>
